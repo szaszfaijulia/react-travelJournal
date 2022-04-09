@@ -2,3 +2,38 @@
   box-sizing: border-box;
 }
 
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+nav {
+  display: flex;
+  /*box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);*/
+  position: absolute;
+  width: 550px;
+  height: 55px;
+  left: 0px;
+  top: 0px;
+  background: #F55A5A;
+}
+
+.nav--logo {
+  padding: 10px 205px;
+}
+.nav--title {
+  position: absolute;
+  width: 109px;
+  height: 16px;
+  left: 244px;
+  top: 5px;
+
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.4608px;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+
+  color: #FFFFFF;
+}
