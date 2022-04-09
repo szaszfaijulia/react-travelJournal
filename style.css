@@ -44,10 +44,10 @@ nav {
 }
 
 hr {
-  position: relative;
   width: 478px;
   height: 0px;
   margin-bottom: 25px;
+  margin-left: 0px;
 
   border: 1px solid #F5F5F5;
 }
