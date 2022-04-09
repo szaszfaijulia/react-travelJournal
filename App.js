@@ -17,7 +17,7 @@ export default function App() {
   return (
     <div>
       <Navbar />
-      <section>
+      <section className="card--list">
         {card}
       </section>
     </div>
